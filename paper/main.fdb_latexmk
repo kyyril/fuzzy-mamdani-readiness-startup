@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1750151270.58938 "d:/repoD/absolute-fuzzy/paper/main.tex" "main.pdf" "main" 1750151271.63266 0
-  "C:/Users/WorkPlus/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1750145889 164858 1926c8d7bd1823f0c8393a5c0272d2d9 ""
+["pdflatex"] 1750170617.97153 "d:/repoD/absolute-fuzzy/paper/main.tex" "main.pdf" "main" 1750170619.3742 0
+  "C:/Users/WorkPlus/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1750155416 164858 1926c8d7bd1823f0c8393a5c0272d2d9 ""
   "C:/Users/WorkPlus/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1200.pk" 1750106046 24152 5213b0c8f09d948dbb8131f53fe60243 ""
   "C:/Users/WorkPlus/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1750096542 688 37338d6ab346c2f1466b29e195316aa4 ""
   "C:/Users/WorkPlus/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1750094563 13236390 64f3a8ae5a305fcecb52f01ed006e062 ""
@@ -34,7 +34,6 @@
   "C:/Users/WorkPlus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "C:/Users/WorkPlus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/WorkPlus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
-  "C:/Users/WorkPlus/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb" 1256929440 97155 ffb6880a68751002f414154d64548ca3 ""
   "C:/Users/WorkPlus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb" 1136828148 33709 b09d2e140b7e807d3a97058263ab6693 ""
   "C:/Users/WorkPlus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb" 1136828148 44729 fea0975e20ec51c992338362f05f1146 ""
   "C:/Users/WorkPlus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb" 1136828148 46026 687528a208fbfc1f00832bb96cccebbb ""
@@ -86,12 +85,6 @@
   "C:/Users/WorkPlus/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1749322634 4023 e66acf578d6b564c4670fb57ff336a7a ""
   "C:/Users/WorkPlus/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1745818159 30366 13daaaa774357bc2a262523ba6a04bac ""
   "C:/Users/WorkPlus/AppData/Local/Programs/MiKTeX/tex/latex/multirow/multirow.sty" 1731767677 6696 886c9f3087d0b973ed2c19aa79cb3023 ""
-  "C:/Users/WorkPlus/AppData/Local/Programs/MiKTeX/tex/latex/mwe/example-image-a.pdf" 1522425337 12160 f5a33a472bc2acb8800c3e00764d8ad1 ""
-  "C:/Users/WorkPlus/AppData/Local/Programs/MiKTeX/tex/latex/mwe/example-image-a.tex" 1522425337 466 d1a94627f2e1cbf8876e228d48d436ec ""
-  "C:/Users/WorkPlus/AppData/Local/Programs/MiKTeX/tex/latex/mwe/example-image-b.pdf" 1522425337 17201 df559bd1afe49e7edc5b8a552f742861 ""
-  "C:/Users/WorkPlus/AppData/Local/Programs/MiKTeX/tex/latex/mwe/example-image-b.tex" 1522425337 466 69705384919c6dc961bf49b977dd41f4 ""
-  "C:/Users/WorkPlus/AppData/Local/Programs/MiKTeX/tex/latex/mwe/example-image-c.pdf" 1522425337 11708 12a29bee40215623b90a40eafa3648e3 ""
-  "C:/Users/WorkPlus/AppData/Local/Programs/MiKTeX/tex/latex/mwe/example-image-c.tex" 1522425337 466 4f25febe81bf5b4e1ee4f206e7a419ba ""
   "C:/Users/WorkPlus/AppData/Local/Programs/MiKTeX/tex/latex/natbib/natbib.sty" 1292249081 46712 1c8843383c0bd05870c45fa0ebea6cc2 ""
   "C:/Users/WorkPlus/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/mathptmx.sty" 1585926771 4760 6e41de2b7a83dfa5d2c4b0a2fe01f046 ""
   "C:/Users/WorkPlus/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/omlztmcm.fd" 1585253778 429 12564a37a279e4e0b533cdf5e03eeb7c ""
@@ -108,9 +101,9 @@
   "C:/Users/WorkPlus/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1748713680 15695 75d821d025d9de4731433f1c08ba96ca ""
   "C:/Users/WorkPlus/AppData/Local/Programs/MiKTeX/tex/latex/tools/longtable.sty" 1748713680 15912 618223a798a4d829f4d8e1ccf24e518f ""
   "C:/Users/WorkPlus/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "d:/repoD/absolute-fuzzy/paper/main.tex" 1750151270 41988 29a29a23a7ef64472d91815266251782 ""
-  "main.aux" 1750151271 5456 80c798a51bfcbf68403dd1e83b52d87d "pdflatex"
-  "main.tex" 1750151270 41988 29a29a23a7ef64472d91815266251782 ""
+  "d:/repoD/absolute-fuzzy/paper/main.tex" 1750170615 41768 781076d32751548e32a9f4a2c8287190 ""
+  "main.aux" 1750170619 5443 4bfbfa3d8973fe664cecb973dbc3e27f "pdflatex"
+  "main.tex" 1750170615 41768 781076d32751548e32a9f4a2c8287190 ""
   (generated)
   "main.aux"
   "main.log"
