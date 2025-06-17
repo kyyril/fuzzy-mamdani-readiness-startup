@@ -1,4 +1,4 @@
-# Sistem Pakar Evaluasi Kesiapan Startup untuk Pendanaan
+# fuzzy-mamdani-readiness-to-start-a-company
 
 Sistem pakar berbasis logika fuzzy untuk mengevaluasi kesiapan startup dalam mendapatkan pendanaan menggunakan metode inferensi Mamdani.
 
@@ -57,4 +57,4 @@ npm run dev
 
 ## Validation
 
-Sistem telah divalidasi dengan 30 kasus uji yang mencakup berbagai skenario startup dengan target akurasi >61.3%.
+Sistem telah divalidasi dengan 31 kasus uji yang mencakup berbagai skenario startup dengan target akurasi >61.3%.
